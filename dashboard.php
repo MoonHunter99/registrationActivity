@@ -54,22 +54,22 @@ $stmt->close();
         }
         
         .info-card {
-            background-color:rgb(255, 255, 255);
+            background-color: #e0e0e0;
             border-radius: 8px;
             padding: 15px;
-            border: 1px solid #eee;
+            border: 1px solid #cccccc;
         }
         
         .info-title {
             font-size: 14px;
-            color: #666;
+            color: #444;
             margin-bottom: 5px;
         }
         
         .info-value {
             font-size: 16px;
             font-weight: 500;
-            color: #333;
+            color: #222;
         }
         
         .logout-btn {
