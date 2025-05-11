@@ -54,7 +54,7 @@ $stmt->close();
         }
         
         .info-card {
-            background-color: #f9f9f9;
+            background-color:rgb(255, 255, 255);
             border-radius: 8px;
             padding: 15px;
             border: 1px solid #eee;
